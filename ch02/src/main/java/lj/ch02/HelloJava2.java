@@ -1,9 +1,12 @@
 package lj.ch02;
 
 //file: HelloJava2.java
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
+import java.awt.Graphics;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseMotionListener;
+
+import javax.swing.JComponent;
+import javax.swing.JFrame;
 
 public class HelloJava2
 {
